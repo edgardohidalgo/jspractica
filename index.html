@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Mantenimiento de Equipos Informáticos</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <h1>Mantenimiento de Equipos Informáticos</h1>
+
+  <!-- Buscar por número de inventario -->
+  <div id="busqueda">
+    <input type="text" id="buscarInventario" placeholder="Número de inventario">
+    <button id="btnBuscar">Buscar</button>
+  </div>
+
+  <!-- Ficha del equipo -->
+  <form id="formulario">
+    <label>Número de Inventario:
+      <input type="text" id="inventario">
+    </label>
+
+    <label>Número de Serie:
+      <input type="text" id="serie">
+    </label>
+
+    <label>Marca:
+      <input type="text" id="marca">
+    </label>
+
+    <label>Modelo:
+      <input type="text" id="modelo">
+    </label>
+
+    <label>Procesador:
+      <input type="text" id="procesador">
+    </label>
+
+    <label>Memoria:
+      <input type="text" id="memoria">
+    </label>
+
+    <label>Ubicación Magatzem:
+      <select id="ubicacion">
+        <option value="A">Magatzem A</option>
+        <option value="B">Magatzem B</option>
+        <option value="C">Magatzem C</option>
+      </select>
+    </label>
+
+    <label>Inventario OK:
+      <input type="radio" name="ok" value="Sí"> Sí
+      <input type="radio" name="ok" value="No"> No
+    </label>
+
+    <label>Estado:
+      <select id="estado">
+        <option value="Nou">Nou</option>
+        <option value="UsatN1">UsatN1</option>
+        <option value="UsatN2">UsatN2</option>
+        <option value="UsatN3">UsatN3</option>
+        <option value="Perdut">Perdut</option>
+      </select>
+    </label>
+
+    <label>Fecha Última Revisión:
+      <input type="date" id="fecha">
+    </label>
+
+    <!-- Botones -->
+    <div id="botones">
+      <button type="button" id="btnAnterior">Anterior</button>
+      <button type="button" id="btnSiguiente">Siguiente</button>
+      <button type="button" id="btnGuardar">Guardar</button>
+      <button type="button" id="btnEliminar">Eliminar</button>
+    </div>
+  </form>
+
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,122 @@
+[
+    {
+        "inventari_numero": "1234567890",
+        "num_serie": "12345678",
+        "marca": "Dell",
+        "model": "XPS 13",
+        "processador": "Intel Core i7",
+        "memoria": "16GB",
+        "ubicacio_magatzem": "Magatzem A",
+        "inventariOk": true,
+        "estat": "Nou",
+        "data_ultima_revisio": "2025-03-15"
+    },
+    {
+        "inventari_numero": "2345678901",
+        "num_serie": "23456789",
+        "marca": "HP",
+        "model": "EliteBook 840",
+        "processador": "Intel Core i5",
+        "memoria": "8GB",
+        "ubicacio_magatzem": "Magatzem B",
+        "inventariOk": true,
+        "estat": "UsatN1",
+        "data_ultima_revisio": "2025-02-20"
+    },
+    {
+        "inventari_numero": "3456789012",
+        "num_serie": "34567890",
+        "marca": "Apple",
+        "model": "MacBook Pro",
+        "processador": "Apple M1",
+        "memoria": "16GB",
+        "ubicacio_magatzem": "Magatzem C",
+        "inventariOk": false,
+        "estat": "UsatN2",
+        "data_ultima_revisio": "2025-01-30"
+    },
+    {
+        "inventari_numero": "4567890123",
+        "num_serie": "45678901",
+        "marca": "Lenovo",
+        "model": "ThinkPad X1 Carbon",
+        "processador": "Intel Core i7",
+        "memoria": "16GB",
+        "ubicacio_magatzem": "Magatzem A",
+        "inventariOk": true,
+        "estat": "UsatN3",
+        "data_ultima_revisio": "2025-03-01"
+    },
+    {
+        "inventari_numero": "5678901234",
+        "num_serie": "56789012",
+        "marca": "Asus",
+        "model": "ZenBook 14",
+        "processador": "Intel Core i5",
+        "memoria": "8GB",
+        "ubicacio_magatzem": "Magatzem B",
+        "inventariOk": false,
+        "estat": "Perdut",
+        "data_ultima_revisio": "2025-02-10"
+    },
+    {
+        "inventari_numero": "6789012345",
+        "num_serie": "67890123",
+        "marca": "Acer",
+        "model": "Swift 3",
+        "processador": "Intel Core i5",
+        "memoria": "8GB",
+        "ubicacio_magatzem": "Magatzem C",
+        "inventariOk": true,
+        "estat": "Nou",
+        "data_ultima_revisio": "2025-03-20"
+    },
+    {
+        "inventari_numero": "7890123456",
+        "num_serie": "78901234",
+        "marca": "Microsoft",
+        "model": "Surface Laptop 4",
+        "processador": "Intel Core i7",
+        "memoria": "16GB",
+        "ubicacio_magatzem": "Magatzem A",
+        "inventariOk": true,
+        "estat": "UsatN1",
+        "data_ultima_revisio": "2025-03-10"
+    },
+    {
+        "inventari_numero": "8901234567",
+        "num_serie": "89012345",
+        "marca": "Samsung",
+        "model": "Galaxy Book Pro",
+        "processador": "Intel Core i5",
+        "memoria": "8GB",
+        "ubicacio_magatzem": "Magatzem B",
+        "inventariOk": false,
+        "estat": "UsatN2",
+        "data_ultima_revisio": "2025-02-25"
+    },
+    {
+        "inventari_numero": "9012345678",
+        "num_serie": "90123456",
+        "marca": "LG",
+        "model": "Gram 17",
+        "processador": "Intel Core i7",
+        "memoria": "16GB",
+        "ubicacio_magatzem": "Magatzem C",
+        "inventariOk": true,
+        "estat": "UsatN3",
+        "data_ultima_revisio": "2025-03-05"
+    },
+    {
+        "inventari_numero": "0123456789",
+        "num_serie": "01234567",
+        "marca": "Razer",
+        "model": "Blade 15",
+        "processador": "Intel Core i7",
+        "memoria": "16GB",
+        "ubicacio_magatzem": "Magatzem A",
+        "inventariOk": true,
+        "estat": "Perdut",
+        "data_ultima_revisio": "2025-02-15"
+    }
+]
